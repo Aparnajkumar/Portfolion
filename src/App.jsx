@@ -75,7 +75,7 @@ function App() {
             </div>
             <div className="shadow border border-green-950 text-center p-3" style={{ height: "150px" }}>
               <u className=''>TODO APP</u>
-              <p> Website which has CRUD using HTML, CSS and Bootstrap</p>
+              <p> Website which has CRUD operations made using HTML and React Bootstrap</p>
               <button className='bg-green-950 p-1 rounded m-4'><a href='https://todofrontend-omega-six.vercel.app/'>Live Link</a></button>
             </div>
           </div>
