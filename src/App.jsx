@@ -19,7 +19,7 @@ function App() {
             <img style={{ width: "400px" }} src="public/im-Photoroom.png" alt="" />
           </div>
 
-          <div className=" pt-40 text-center">
+          <div className=" pt-20 text-center">
             <h1 className='text-4xl p-2  text-slate-100 font-bold'>APARNA JAYAKUMAR</h1>
             <h2 className='text-2xl'>Hello, I am a <span className='text-3xl text-amber-200'>Full Stack Developer</span></h2>
             <div className='text-center p-1'>
@@ -35,7 +35,7 @@ function App() {
           <div className='md:grid grid-cols-2 ps-4'>
 
             <div>
-              <p className='text-justify text-2xl p-5'>I am a Postgraduate in Physics passout in the year 2017. Have used different programming languages since my graduation. As my interest in coding increased I joined as an intern in web development. In addition to my interest in technology I am always keen to learn new things.
+              <p className=' text-xl p-5'>I am a Postgraduate in Physics passout in the year 2017. Have used different programming languages since my graduation. As my interest in coding increased I joined as an intern in web development. In addition to my interest in technology I am always keen to learn new things.
 
                 <p>My Objective is to challenge myself in a new environment to learn, develop and improve my skills.</p>
               </p>
