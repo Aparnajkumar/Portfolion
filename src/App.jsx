@@ -16,7 +16,7 @@ function App() {
       <div className="bg-black text-white">
         <div className="flex flex-col md:flex-row items-center justify-center">
           <div className="justify-center">
-            <img style={{ width: "400px" }} src="public/im-Photoroom.png" alt="" />
+            <img style={{ width: "400px" }} src="/im-Photoroom.png" alt="" />
           </div>
 
           <div className=" pt-20 text-center">
