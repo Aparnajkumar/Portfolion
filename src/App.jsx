@@ -23,7 +23,7 @@ function App() {
             <h1 className='text-4xl p-2  text-slate-100 font-bold'>APARNA JAYAKUMAR</h1>
             <h2 className='text-2xl'>Hello, I am a <span className='text-3xl text-amber-200'>Full Stack Developer</span></h2>
             <div className='text-center p-1'>
-              <button className='border border-white bg-green-700 rounded p-1 text-white '><a href='/Aparna CV (2).pdf' download="/Aparna CV (2).pdf">Download Resume</a></button>
+              <button className='border border-white bg-green-700 rounded p-1 text-white '><a href='/Aparna-Resume.pdf' download="/Aparna-Resume.pdf">Download Resume</a></button>
 
             </div>
           </div>
