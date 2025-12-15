@@ -14,7 +14,7 @@ function App() {
     <>
       <Header />
       <div className="bg-black text-white">
-        <div className="flex  items-center justify-center">
+        <div className="  items-center justify-center">
           {/* <div className="justify-center">
             <img style={{ width: "400px" }} src="/im-Photoroom.png" alt="" />
           </div> */}
