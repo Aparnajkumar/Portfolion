@@ -15,9 +15,9 @@ function App() {
       <Header />
       <div className="bg-black text-white">
         <div className="flex flex-col md:flex-row items-center justify-center">
-          <div className="justify-center">
+          {/* <div className="justify-center">
             <img style={{ width: "400px" }} src="/im-Photoroom.png" alt="" />
-          </div>
+          </div> */}
 
           <div className=" pt-20 text-center">
             <h1 className='text-4xl p-2  text-slate-100 font-bold'>APARNA JAYAKUMAR</h1>
